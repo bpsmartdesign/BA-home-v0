@@ -418,7 +418,6 @@
                     autoplay
                     muted
                     loop
-                    poster="assets/img/Home scroll copy.png"
                     id="Test_Video"
                   >
                     <source
@@ -496,7 +495,6 @@
                 autoplay
                 muted
                 loop
-                poster="assets/img/Home scroll copy.png"
                 id="Test_Video2"
               >
                 <source src="@/assets/video/search.mp4" type="video/mp4" />
@@ -561,7 +559,6 @@
                 autoplay
                 muted
                 loop
-                poster="assets/img/Home scroll copy.png"
                 id="Test_Video3"
               >
                 <source src="@/assets/video/messaging.mp4" type="video/mp4" />
@@ -625,7 +622,6 @@
                 autoplay
                 muted
                 loop
-                poster="assets/img/Home scroll copy.png"
                 id="Test_Video3"
               >
                 <source src="@/assets/video/offline.mp4" type="video/mp4" />
